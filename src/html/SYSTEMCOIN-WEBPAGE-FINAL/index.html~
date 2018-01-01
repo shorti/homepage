@@ -1,0 +1,330 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="Cryptocurrency, Cryptocurrencies, Cryptocurrencys, Systemcoin, System-Coin, Coin, ">
+<meta name="author" content="Shorti" >
+<meta http-equiv="refresh" content="300">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<title>Systemcoin STC</title>
+<link rel="icon" href="favicon.png" type="image/png">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css"> 
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css"> 
+<link href="css/animate.css" rel="stylesheet" type="text/css"> 
+<link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">  
+<link href="css/magnific-popup.css" rel="stylesheet">  
+<link href="css/gallery-1.css" rel="stylesheet">
+ 
+</head>
+<body>
+
+<!--Header_section-->
+<header id="header_wrapper">
+  <div class="container">
+    <div class="header_box">
+      <div class="logo"><a href="#"><img src="img/logo.png" alt="logo"></a></div>
+	  <nav class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        </div>
+	    <div id="main-nav" class="collapse navbar-collapse navStyle">
+			<ul class="nav navbar-nav" id="mainNav">
+			  <li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
+			  <li><a href="#aboutUs" class="scroll-link">About</a></li>
+			  <li><a href="#projectsanddevelopments" class="scroll-link">Projects and Developments</a></li>
+			  <li><a href="#startwithsystemcoin" class="scroll-link">Start with STC</a></li>
+			  <li><a href="#community" class="scroll-link">Community</a></li> 
+			  <li><a href="#contact" class="scroll-link">Contact</a></li>
+			</ul>
+      </div>
+	 </nav>
+    </div>
+  </div>
+</header>
+<!--Header_section--> 
+
+<!--Hero_Section-->
+<section id="hero_section" class="top_cont_outer">
+  <div class="hero_wrapper">
+    <div class="container">
+      <div class="hero_section">
+        <div class="row">
+          <div class="col-lg-5 col-sm-7">
+            <div class="top_left_cont zoomIn wow animated"> 
+              <h2><strong>SYSTEMCOIN</strong></h2>
+              <p>Systemcoin is a new open source peer-to-peer and decentraliced brand with a mature ecosystem developed by a dedicated foundation team. Systemcoin provides world class services and faster transactions-speed than Bitcoin. Cheaper price and transactions allow STC to be easily adopted by merchants across the globe.</p>
+              <a href="#startwithsystemcoin" class="read_more2">Start with STC</a> </div> 
+          </div>
+          <div class="col-lg-7 col-sm-5">
+			<img src="img/main_device_image.png" class="zoomIn wow animated" alt="" />
+		  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Hero_Section--> 
+
+<!--Aboutus--> 
+<section id="aboutUs"><!--Aboutus-->
+<div class="inner_wrapper">
+  <div class="container">
+    <h2><b>About Us</b></h2>
+    <div class="inner_section">
+	<div class="row">
+      <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/about-img.jpg" class="delay-03s animated wow zoomIn" alt=""></div>
+      	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+        	<div class=" delay-01s animated fadeInDown wow animated">
+			<h3><i>Everyone has the right to do the right... </i></h3><br/> 
+            <p>Launched in December 2017, Systemcoin is a decentralised cryptocurrency project with long term goals. The focus of STC is to create a cryptocurrency that is accessible to all and breaks away from other coins to continue future projects and applications.</p> <br/>
+<p>We continue to innovate and build on our reputation to launch into the mainstream as the most trusted and exciting cryptocurrency project in the market.</p>
+</div>    
+	   </div>
+      	
+      </div>
+	  
+      
+    </div>
+  </div> 
+  </div>
+</section>
+<!--Aboutus--> 
+
+
+<!--Projects and Developments-->
+<section  id="projectsanddevelopments">
+  <div class="container">
+    <h2><b>PROJECTS and DEVELOPMENTS</b></h2>
+    <h6>Below mentioned projects are currently under development or in planning. More infomations will follow soon..</h6><br/> 
+    <div class="service_wrapper">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow  zoomIn"> <span><i class="fa fa-android"></i></span> </div>
+            <h3 class="animated fadeInUp wow">ANDROID-APP</h3>
+            <p class="animated fadeInDown wow">Android APP in progress.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft">			
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i class="fa fa-apple"></i></span> </div>
+            <h3 class="animated fadeInUp wow">IOS-APP</h3>
+            <p class="animated fadeInDown wow">IOS APP in progress.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="fa fa-dollar"></i></span> </div>
+            <h3 class="animated fadeInUp wow">PORTAL-SHOP</h3>
+            <p class="animated fadeInDown wow">Forex trading, IT stuff, physical goods+more.</p>
+          </div>
+        </div>
+      </div>
+	   <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow  zoomIn"> <span><i class="fa fa-dollar"></i></span> </div>
+            <h3 class="animated fadeInUp wow">TRADING PLATTFORM</h3>
+            <p class="animated fadeInDown wow">A new trading-plattform is under development for selling or buying dozens of cryptocurrencies in a P2P marketplace.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft mrgTop">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><i class="fa fa-slack"></i></span> </div>
+            <h3 class="animated fadeInUp wow">IMPROVING STC</h3>
+            <p class="animated fadeInDown wow">Everyone can contribute to STC for posting improvements or quality topics. Improving STC will be rewarded.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft mrgTop">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><i class="fa fa-users"></i></span> </div>
+            <h3 class="animated fadeInUp wow">MAJOR EXCHANGES LISTING</h3>
+            <p class="animated fadeInDown wow">Listing Systemcoin on Bittrex, Bitfinex, Binance, Kraken and other well established exchanges.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Projects and Developments-->
+
+
+<!--Start with Systemcoin-->
+<section id="startwithsystemcoin" class="pricing-container page_section">
+			<div class="container">
+			    <h2><b>START WITH SYSTEMCOIN</b></h2>
+    <h6>Download your preferred Systemcoin-Wallet below..... Comming soon!!!</h6>
+				<div class="row"> 				
+					<div class="col-md-3 col-sm-3 col-xs-12">
+						<div class="pricing">
+							<div class="pricing-title">
+							<p>Windows Wallet</p>
+							</div>
+							<div class="pricing-price">
+							</div>
+							<div class="pricing-features">
+								<p>Download Windows-Wallet</p>
+							</div>
+							<div class="pricing_btn">
+								<p><a href="#"> Download Now</a></p>
+							</div>							
+						</div>					
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+						<div class="pricing">
+							<div class="pricing-title">
+								<p>MAC Wallet</p>
+							</div>
+							<div class="pricing-price">
+							</div>
+							<div class="pricing-features">
+								<p>Download MAC-Wallet</p>
+							</div>
+							<div class="pricing_btn">
+								<p><a href="#"> Download Now</a></p>
+							</div>							
+						</div>					
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+						<div class="pricing">
+							<div class="pricing-title">
+								<p>GITHUB SOURCE</p>
+							</div>
+							<div class="pricing-price">
+							</div>
+							<div class="pricing-features">
+								<p>Download source code</p>
+							</div>
+							<div class="pricing_btn">
+								<p><a href="#"> Download now</a></p>
+							</div>							
+						</div>					
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+						<div class="pricing">
+							<div class="pricing-title">
+								<p>Block Explorer</p>
+							</div>
+							<div class="pricing-price">
+							</div>
+							<div class="pricing-features">
+								<p>Coming soon!</p>
+							</div>
+							<div class="pricing_btn">
+								<p><a href="#"> Download now</a></p>
+							</div>							
+						</div>					
+					</div>	
+				</div><!--- END ROW -->
+			</div><!--- END CONTAINER -->
+		</section>
+<!--Start with Systemcoin-->		
+
+<!--Join the Community of Systemcoin!-->
+<br><br><br><br><br>
+<section id="community"><!--page_section-->
+  <h2><b>Join the Community of Systemcoin!</b></h2>
+<!--page_section-->
+<div class="client_logos"><!--client_logos-->
+  <div class="container">
+    <ul class="social_links">
+            <li class="twitter animated bounceIn wow delay-02s"><a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+            <li class="gplus animated bounceIn wow delay-05s"><a href="https://www.slack.com"><i class="fa fa-slack"></i></a></li> 
+            <li class="twitter animated bounceIn wow delay-02s"><a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.github.com/shorti/Systemcoin"><i class="fa fa-github"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.bitcointalk.org"><i class="fa fa-bitcoin"></i></a></li>
+    </ul>
+  </div>
+</div>
+</section>
+<!--Join the Community of Systemcoin!-->
+
+<!--Contact Us-->
+<footer class="footer_wrapper" id="contact">
+  <div class="container">
+    <section class="page_section contact" id="contact">
+      <div class="contact_section">
+        <h2><b>Contact Us</b></h2>
+        <div class="row">
+          <div class="col-lg-4">
+            
+          </div>
+          <div class="col-lg-4">
+           
+          </div>
+          <div class="col-lg-4">
+          
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 wow fadeInLeft">	
+		 <div class="contact_info">
+                            <div class="detail">
+                                <h4>Systemcoin</h4>
+                                <p><a href="https://www.systemcoin.net">www.systemcoin.net</a></p>
+                            </div>
+                            <div class="detail">
+                                <h4>Email us</h4>
+                                <p>support@systemcoin.net</p>
+                            </div>
+                            <div class="detail">
+                                <h4>Social Networks</h4>
+                                <p>Find us on Twitter, Facebook and co.:</p>
+                            </div> 
+                        </div>
+       		  
+			  
+          
+          <ul class="social_links">
+            <li class="twitter animated bounceIn wow delay-02s"><a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+            <li class="gplus animated bounceIn wow delay-05s"><a href="https://www.slack.com"><i class="fa fa-slack"></i></a></li> 
+            <li class="twitter animated bounceIn wow delay-02s"><a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.github.com/shorti/Systemcoin"><i class="fa fa-github"></i></a></li>
+            <li class="facebook animated bounceIn wow delay-03s"><a href="https://www.bitcointalk.org"><i class="fa fa-bitcoin"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-lg-8 wow fadeInLeft delay-06s">
+          <div class="form">
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!--Contact Us-->
+  
+  <!--Footer-->
+  <div class="container">
+    <div class="footer_bottom"><span>Copyright © 2017 Systemcoin, All Rights Reserved.</span> </div>
+  </div>
+</footer>
+ <!--Footer-->
+ 
+ 
+<a id="1627133" href="http://www.gratis-besucherzaehler.de">hier klicken</a><script type="text/javascript" language="JavaScript" src="https://www.gratis-besucherzaehler.net/counter_js.php?account=1627133&style=1"></script> 
+ 
+ 
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="js/jquery.nav.js"></script> 
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/wow.js"></script> 
+
+
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/jquery.fancybox-media.js"></script>   
+<script src="js/modernizr.custom.js"></script>
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script> 
+
+ <script src="contact/jqBootstrapValidation.js"></script>
+ <script src="contact/contact_me.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+
+</body>
+</html>
